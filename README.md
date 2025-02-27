@@ -1,5 +1,5 @@
 # Privacy App Links
-### Stay safe out there folks, and fuck the corpos
+### Stay safe out there folks, and fuck the corpos :feelsgood: :feelsgood: :feelsgood:
 ##### Except Best Buy
 
 ## Web browser
@@ -17,6 +17,7 @@ Its free. There's a browser extension, android and ios app. There's an app for y
 
 Have all your passwords saved in your browser? Here are links for how to export from your browser and import them to Bitwarden.
 [Chrome Instructions](https://bitwarden.com/help/import-from-chrome/)
+
 [Firefox instructions](https://bitwarden.com/help/import-from-firefox/)
 
 
