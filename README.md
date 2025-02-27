@@ -56,3 +56,14 @@ Containers. These add-ons stop the companies from tracking outside their domain.
 :goberserk: [Reddit Container](https://addons.mozilla.org/en-US/firefox/addon/reddit-container/)
 
 You get the idea. Search {Big tech company} Container and you'll likely find an extension.
+
+
+## Download Facebook Photos
+
+So, you want to delete your Facebook account? First of all 
+
+:clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: :clap: 
+
+Major props to you. To get all your photos, follow these instructions: [How to download all your Facebook photos](https://www.solveyourtech.com/how-to-save-all-photos-from-facebook-a-comprehensive-step-by-step-guide/)
+
+Make sure after you've downloaded all your photos (which can take a few days), come back and [permanently delete your account.](https://www.solveyourtech.com/how-to-permanently-delete-a-facebook-account-a-step-by-step-guide/)
