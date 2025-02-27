@@ -1,13 +1,13 @@
 # Privacy App Links
 ### :fist: :fist: :fist: Stay safe out there folks, and f** the corpos :fist: :fist: :fist:
-##### :stuck_out_tongue_winking_eye: Except Best Buy :stuck_out_tongue_winking_eye:
+###### :stuck_out_tongue_winking_eye: Except Best Buy :stuck_out_tongue_winking_eye:
 
 ## Web browser 
-#### If you care about privacy and are using Chrome, you a fool.
+##### If you care about privacy and are using Chrome, you a dang fool.
 
 :fire: :fire: :fire: [Firefox](https://www.mozilla.org/en-US/firefox/new/) is a very privacy centric browser. Tom approved. :fire: :fire: :fire:
 
-Wanna go uber private? 
+##### Wanna go uber private? 
 ###### Try [Tor](https://www.torproject.org/download/). Onion links not included.
 
 
@@ -25,9 +25,8 @@ Have all your passwords saved in your browser? Here are links for how to export 
 
 
 ## Browser Extensions
-### Organized by skill level
-
 #### The Essential
+
 :feelsgood: [Adblock Plus](https://adblockplus.org/). This is the one I use, but really any will help.
 
 :feelsgood: [UBlock Origin](https://ublockorigin.com/). Open source ad blocker. Are two ad blockers necessary? Not really.
